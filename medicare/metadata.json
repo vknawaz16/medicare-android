@@ -1,0 +1,6 @@
+{
+  "name": "MediCare",
+  "description": "Medicine schedule reminder app with reliable audible alarms, snooze, history, and adherence progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
